@@ -5,7 +5,7 @@
 블로그를 통해 개발 및 일상을 기록하고 있습니다.  
 <!-- \- NEW: [깃허브 블로그](https://dev-jiyoung-oh.github.io) -->
 \- NEW: [티스토리](https://dev-ohjy.tistory.com)  
-\- OLD: [네이버 블로그](https://blog.naver.com/aa991102)
+\- OLD: [네이버 블로그](https://blog.naver.com/developer_jy_)
 
 <!--저는 이런 사람이 되고싶습니다
 - <strong>의지할 수 있는 사람</strong>
