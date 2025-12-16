@@ -14,6 +14,13 @@
 <br>
 
 ### 💻 기록
+
+**지락실 게임 프로젝트** $\color{#8c8c8c}2025.06 - 현재$  
+>```2025.06 - 현재``` : [Backend](https://github.com/dev-jiyoung-oh/jiraksil-game-backend) / [Frontend](https://github.com/dev-jiyoung-oh/jiraksil-game) : 지구오락실 게임을 플레이 할 수 있는 웹 사이트(개인 프로젝트)  
+
+**기업 참여형 실무 중심 웹 프론트엔드 부트캠프 교육 수료** $\color{#8c8c8c}2024.09 - 2025.03$  
+>```2024.12 - 2025.03``` : [LionPlace](https://github.com/dev-jiyoung-oh/6th-LionPlace) : 원하는 장소를 저장하고 방문했던 장소에 리뷰를 작성할 수 있는 모바일 웹 사이트(팀 프로젝트)  
+
 **[뱅가드랩](http://www.vanguardlab.net) 근무** $\color{#8c8c8c}2021.09 - 2023.12$
 >```2022.12 - 2023.12``` : 하나은행 오픈API(은행, 그룹) 운영 프로젝트 - $\color{#6495ED}B.E$  
 ```2022.08 - 2022.12``` : 풀무원 광고/법령 시스템 3차 구축 프로젝트 - $\color{#FFA500}F.E$ / $\color{#6495ED}B.E$  
@@ -23,13 +30,13 @@
 <!-- ```2021.04 - 현재``` : [Myver](https://github.com/aa991102/myver) : 쪽지, 블로그 서비스를 제공하는 웹 사이트(개인) -->
 
 **빅데이터분석전문가 국비지원 교육 수료** $\color{#8c8c8c}2020.01 - 2020.08$  
->```2020.06 - 2020.08``` : [Allight](https://github.com/aa991102/allight) : 다이어트 관리(다이어리 & 커뮤니티 & 칼로리 사전 & 쇼핑) 서비스를 제공하는 웹 사이트(팀 프로젝트)  
-```2020.04 - 2020.05``` : [Kospiece](https://github.com/aa991102/kospiece) : 코스피 200기업을 시각화(Map)와 주식 커뮤니티 서비스를 제공하는 웹 사이트(팀 프로젝트)  
+>```2020.06 - 2020.08``` : [Allight](https://github.com/dev-jiyoung-oh/allight) : 다이어트 관리(다이어리 & 커뮤니티 & 칼로리 사전 & 쇼핑) 서비스를 제공하는 웹 사이트(팀 프로젝트)  
+```2020.04 - 2020.05``` : [Kospiece](https://github.com/dev-jiyoung-oh/kospiece) : 코스피 200기업을 시각화(Map)와 주식 커뮤니티 서비스를 제공하는 웹 사이트(팀 프로젝트)  
 <br>
 
 ### ✍ 개발 스킬 및 환경
 - Front-End<br>
-```JavaScript``` ```jQuery``` ```JSP``` ```HTML``` ```CSS``` ```Bootstrap```
+```JavaScript``` ```jQuery``` ```JSP``` ```HTML``` ```CSS``` ```Bootstrap``` ```React```
 - Back-End<br>
 ```Java``` ```Spring``` ```Spring Security``` ```Mybatis```
 - DataBases<br>
